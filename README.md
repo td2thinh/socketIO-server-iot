@@ -15,3 +15,27 @@ Server available at port 8080, to connect, simply initiate a client
 const socket = io('http://localhost:8080')
 ```
 
+### Prerequisites
+
+* npm
+
+### Installation
+
+1. Clone the repo
+
+```sh
+git clone https://github.com/td2thinh/socketIO-server-iot.git
+```
+
+2. Install dependencies
+
+```sh
+npm install
+```
+
+## Usage
+Run app
+```sh
+npm start
+```
+
