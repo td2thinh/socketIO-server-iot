@@ -14,6 +14,9 @@ Server available at port 8080, to connect, simply initiate a client
 ```js
 const socket = io('http://localhost:8080')
 ```
+## Built With
+
+ExpressJS, SocketIO
 
 ### Prerequisites
 
